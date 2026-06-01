@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="State.fs" />
+    <Compile Include="getFile.fs" />
+    <Compile Include="GameLogic.fs" />
+    <Compile Include="Gamemenu.fs" />
+    <Compile Include="Gameplay.fs" />
+    <Compile Include="Gameover.fs" />
+    <Compile Include="Program.fs" />
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Raylib-cs" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>

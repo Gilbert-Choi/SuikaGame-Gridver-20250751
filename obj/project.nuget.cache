@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6X2QM6VMAvc=",
+  "success": true,
+  "projectFilePath": "/Users/minjunchoi/Desktop/Visual Studio/TermProject/TermProject.fsproj",
+  "expectedPackageFiles": [
+    "/Users/minjunchoi/.nuget/packages/fsharp.core/10.1.203/fsharp.core.10.1.203.nupkg.sha512",
+    "/Users/minjunchoi/.nuget/packages/raylib-cs/8.0.0/raylib-cs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
